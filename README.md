@@ -1,4 +1,5 @@
-# msw_lgu_lte
+# lib_lgu_lte
+sparrow 보드에 장착된 LGU+ LTE 모듈의 LTE 품질을 측정하는 라이브러리 프로세스
 
 ## Install dependencies
 ### MQTT-broker
